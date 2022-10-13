@@ -8,7 +8,7 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="Node" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  <img height="40" width="50" src="https://plugins.jetbrains.com/files/14240/159812/icon/pluginIcon.png">
+  <img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
 </p>
 
 
